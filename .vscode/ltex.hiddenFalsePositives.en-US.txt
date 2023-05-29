@@ -1,0 +1,1 @@
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qto your local machine as mentioned in previous labs.\\E$"}
